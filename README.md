@@ -48,8 +48,9 @@ Git | GitHub | AWS | Google Cloud | Docker
 📧 Email: pateljigar1900@gmail.com  
 🌐 Portfolio: https://jigarbuilds.com  
 🔗 Upwork: https://www.upwork.com/freelancers/pateljigar  
-💼 LinkedIn: https://linkedin.com/in/jigarapps 
-📱 WhatsApp: +91-9978717800
+💼 LinkedIn: https://linkedin.com/in/jigarapps  
+📱 WhatsApp: +91-9978717800  
+
 
 💼 Open to freelance & collaboration  
 🌎 Available for remote projects worldwide
