@@ -2,7 +2,7 @@
 
 ## 📱 Mobile Application Developer
 
-**Flutter | React Native | Android | iOS**
+### **Flutter | React Native | Android | iOS**
 
 🚀 Building scalable, high-performance mobile applications  
 💡 Turning ideas into production-ready digital products
