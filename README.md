@@ -49,7 +49,7 @@ Provider | Riverpod | Bloc | GetX | Redux
 ## 🤝 Let's Connect
 
 📧 Email: pateljigar1900@gmail.com  
-🌐 Portfolio: https://jigarbuilds.com  
+🌐 Portfolio: https://jigarapps.vercel.app  
 🔗 Upwork: https://www.upwork.com/freelancers/pateljigar  
 💼 LinkedIn: https://linkedin.com/in/jigarapps  
 📱 WhatsApp: +91-9978717800  
